@@ -1,5 +1,5 @@
 #Mini sistema de soma de patrimÔnio
-#Autor: Matheus Ruivo
+#Autor: Matheus Henrique
 #Data: 07/11/25
 
 print("Calculamento de Patrimônio")
@@ -13,4 +13,5 @@ if somando_patrimonio >=0:
 elif somando_patrimonio <=0:
    print(F"Seu saldo é negativo, suas dívidas é maior que seus ganhos! {somando_patrimonio:.2f}")
 else:
+
    print("Algo errado!")
